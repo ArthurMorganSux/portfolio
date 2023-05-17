@@ -15,7 +15,7 @@ const About = () => {
             </p>
             <br/>
             <p className="text-xl">
-                In my free time I raise and train with my dog, Summer, I compete in competitive Magic the Gathering and Fighting Game tournaments, I volunteer, and I cook. 
+                In my free time I raise and train with my dog, Summer, I compete in competitive Magic the Gathering and Fighting Game tournaments, I volunteer, and I cook at home often.
             </p>
         </div>
     </div>
